@@ -22,7 +22,7 @@ setup(
     long_description=long_description,
     author='Zack Greenberg',
     author_email='icompute@protonmail.com',
-    url='https://github.com/ZacharyIG/UrlSnippet',
+    url='https://github.com/ZacharyIG/urlsnippet',
     license='Apache-2.0',
     packages=['urlsnippet'],
     include_package_data=True,
