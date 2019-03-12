@@ -1,0 +1,6 @@
+reuests
+requests_cache
+flask
+BeautifullSoup
+sqlalchemy
+webargs
