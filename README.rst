@@ -7,11 +7,6 @@ This repository contains a REST service for requesting text snippets from a give
 URL snippets are persisted via the python requests_cache and sqlite backend, so if your service restarts, you don’t have to fetch everything again.
 
 
-Specification
-===============
-
-- https://docs.google.com/document/d/1h0FbJe954OaGbI54G-Lmd2e1zvs8pafucz09FHxp1to/edit?ts=5c7daadd
-
   
 Dependencies
 ===============
